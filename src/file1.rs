@@ -4,6 +4,7 @@
 
 /**
 * Commander : Zuyo Moeh
+* Strategy : No offense.
 */
 
 /**

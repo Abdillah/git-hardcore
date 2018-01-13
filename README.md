@@ -10,7 +10,7 @@ Merged into master.
 ### Checkout feature - Rebase master - Pull rebase fast-forward only - Merge to master
 Duplicated commits on Rebase master operation, and continue duplicated when
 Merged into master. In addition commits from feature branch reverted,
-thus useless :sad:.
+thus useless :sad:. It maybe due to algorithm choosen to merge: 'ours'.
 
 ### Checkout feature - Merge from master - Merge to master
 Merge from master were successful.

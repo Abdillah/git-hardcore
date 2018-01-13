@@ -11,3 +11,6 @@ Merged into master.
 Duplicated commits on Rebase master operation, and continue duplicated when
 Merged into master. In addition commits from feature branch reverted,
 thus useless :sad:.
+
+### Checkout feature - Merge from master - Merge to master
+Merge from master were successful.

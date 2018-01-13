@@ -5,6 +5,7 @@
 /**
 * Commander : Zuyo Moeh
 * Strategy : No offense.
+* Opponent : East Slime Nation.
 */
 
 /**

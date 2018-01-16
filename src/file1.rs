@@ -6,6 +6,9 @@
 * Commander : Zuyo Moeh
 * Strategy : Full defense.
 * Opponent : East Slime Nation.
+* Armies:
+* - Homa Omci
+* - Mosi Koai
 */
 
 /**
